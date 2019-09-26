@@ -2,7 +2,7 @@
 # cs100f2019-practical04-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the starter files for Practical 4 in Computer Science 100.
+repository contains the starter files for Practical 4 in Computer Science 100-01.
 
 Since the Travis builds for this repository will initially fail (as evidenced by
 a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the

@@ -31,7 +31,7 @@ src/main:
             MatchFileFragment --fragment "next" --count 6
 
 # --> check that the number of commits in the Git repository is beyond a threshold
-CountCommits --count 1
+CountCommits --count 6
 
 # --> check that the program executes correctly and produces exactly 4 lines of output
 ExecuteCommand --command "gradle build"
